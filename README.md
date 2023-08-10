@@ -1,3 +1,5 @@
+Project developed during the course "Java and Spring: Develop Your First Web Application," taught by Alura.
+
 The project was divided into the following topics:
 
 - Learn how to create an application with Spring Boot
