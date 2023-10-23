@@ -1,10 +1,10 @@
-Project developed during the course "Java and Spring: Develop Your First Web Application," taught by Alura.
+Projeto desenvolvido durante o curso "Java e Spring: Desenvolva Sua Primeira Aplicação Web", ministrado pela Alura.
 
-The project was divided into the following topics:
+O projeto foi dividido nos seguintes tópicos:
 
-- Learn how to create an application with Spring Boot
-- Understand how Maven works in a Java application
-- Implement CRUD in a Web application
-- Use Thymeleaf as a technology for dynamic HTML templates
-- Integrate the application with the MySQL database
-- Perform object-relational mapping using JPA
+- Aprender a criar uma aplicação com o Spring Boot
+- Entender como o Maven funciona em uma aplicação Java
+- Implementar o CRUD em uma aplicação Web
+- Utilizar o Thymeleaf como tecnologia para templates HTML dinâmicos
+- Integrar a aplicação com o banco de dados MySQL
+- Realizar o mapeamento objeto-relacional usando JPA
